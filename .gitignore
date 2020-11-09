@@ -1,0 +1,8 @@
+/target
+/hfuzz_target
+/hfuzz_workspace
+
+#editor files
+.idea/
+*iml
+*~
